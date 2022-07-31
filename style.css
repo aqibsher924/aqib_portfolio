@@ -402,6 +402,15 @@ section .title::after{
     top: 0;
     background: #5988b8;
 }
+.skills-content .right .unity::before{
+    width: 90%;
+}
+.skills-content .right .vr::before{
+    width: 80%;
+}
+.skills-content .right .multiplayer::before{
+    width: 70%;
+}
 .skills-content .right .html::before{
     width: 90%;
 }
