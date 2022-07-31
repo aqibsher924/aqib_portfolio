@@ -49,14 +49,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Web Developer", "C#/JAVA desktop application developer ", "Graphic Designer", "UI/UX Designer"],
+        strings: ["Unity Game Developer","VR Game Developer","Web Developer", "C#/JAVA desktop application developer ", "Graphic Designer", "UI/UX Designer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Web Developer", "C#/JAVA desktop application developer ", "Graphic Designer", "UI/UX Designer"],
+        strings: ["Unity Game Developer","VR Game Developer","Web Developer", "C#/JAVA desktop application developer ", "Graphic Designer", "UI/UX Designer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
